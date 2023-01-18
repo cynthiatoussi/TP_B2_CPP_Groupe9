@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1674081769 source:c:\users\admin\documents\tests\terminal\src\drive.cpp
+	<iostream>
+	<windows.h>
+	<filesystem>
+	<fstream>
+	<string>
+	"Drive.h"
+	"Config.h"
+	<chrono>
+	<sys/types.h>
+	<sys/stat.h>
+	<unistd.h>
+
+1674079941 c:\users\admin\documents\tests\terminal\include\drive.h
+	<windows.h>
+	<string>
+
+1674080159 c:\users\admin\documents\tests\terminal\include\config.h
+	<stdio.h>
+	<string.h>
+	<fstream>
+	<string>
+	<vector>
+	<iostream>
+	<sstream>
+
+1674081545 source:c:\users\admin\documents\tests\terminal\src\config.cpp
+	<stdio.h>
+	<string.h>
+	<fstream>
+	<string>
+	<vector>
+	<iostream>
+	<sstream>
+	"Config.h"
+
